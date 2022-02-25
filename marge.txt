@@ -1,0 +1,8 @@
+En la carpeta oculta de git, se encuentra la base de datos de los cambios que se realicen
+
+Comandos basicos 
+
+GIT STATUS: GIT STATUS muetra el estado en el que se encuentra en tiempo real 
+
+GIT RM --CACHED: Elimina el git add que emos agregado a la rama master (lo quita de la memoria ram). ok Este Comandos
+    de git se utiliza principal mente por si hay un error en codigo y ya lo emos subido a la rama master
